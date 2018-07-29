@@ -1,3 +1,5 @@
+#Author Noel Toy
+#Licence All Rights Reserved
 def Palindrome_Check(str):
     flag=True;
     str_len = len(str)
