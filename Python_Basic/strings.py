@@ -1,3 +1,4 @@
+#Author: Noel Toy
 var="Noel Toy"
 print(var[0])
 print(var[0:5])
